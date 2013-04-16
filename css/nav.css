@@ -11,7 +11,7 @@ html, body {
 nav {
   position: relative;
   text-align: center;
-
+  box-shadow: 0 3px 10px #555555;
 }
 nav:hover a {
   color: transparent;
