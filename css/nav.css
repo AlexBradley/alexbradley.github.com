@@ -15,7 +15,7 @@ nav {
 }
 nav:hover a {
   color: transparent;
-  text-shadow: 0 0 3px #cc5c00;
+  text-shadow: 0 0 3px #2b2b2b;
 }
 nav a {
   display: inline-block;
@@ -25,12 +25,12 @@ nav a {
   font-family: Sintony;
   font-size: 1.25em;
   text-decoration: none;
-  color: #cc5c00;
+  color: #181818;
   transition: all 0.3s ease;
 }
 nav a:hover {
-  color: #ff7300;
-  border-bottom: 5px solid #ff7300;
+  color: #2a2a2a;
+  border-bottom: 5px solid #8d8d8d;
   text-shadow: blurr;
 }
 
